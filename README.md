@@ -20,18 +20,17 @@ Rust • Zig • Go • C • TypeScript • Python
 
 ---
 
-## 📌 Learning Repos (Work in Progress)
+## 📌 What I'm Building
 
-| Repo | Stack | Description |
-|------|-------|-------------|
-| [learning-rust](https://github.com/YOUR_USERNAME/learning-rust) | Rust | Exercises from the Rust Book + small CLI tools |
-| [zig-from-scratch](https://github.com/YOUR_USERNAME/zig-from-scratch) | Zig | Allocators, build files, C interop experiments |
-| [go-concurrency](https://github.com/YOUR_USERNAME/go-concurrency) | Go | Goroutines, channels, standard library patterns |
-| [c-pointers](https://github.com/YOUR_USERNAME/c-pointers) | C | Memory, structs, manual allocation |
-| [ts-node-kit](https://github.com/YOUR_USERNAME/ts-node-kit) | TS/Node | Typed scripts and API clients |
-| [python-automation](https://github.com/YOUR_USERNAME/python-automation) | Python | File organizers, scrapers, API glue |
+| Repo (coming soon) | Stack | Description |
+|--------------------|-------|-------------|
+| `learning-rust` | Rust | Exercises from the Rust Book + small CLI tools |
+| `zig-from-scratch` | Zig | Allocators, build files, C interop experiments |
+| `go-concurrency` | Go | Goroutines, channels, standard library patterns |
+| `ts-node-kit` | TS/Node | Typed scripts and API clients |
+| `python-automation` | Python | File organizers, scrapers, API glue |
 
-*(These will grow as I commit daily. Follow the mess → follow the progress.)*
+*(Repos will appear here as I commit daily. Follow the mess → follow the progress.)*
 
 ---
 
