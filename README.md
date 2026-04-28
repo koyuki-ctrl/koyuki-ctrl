@@ -52,8 +52,8 @@ Rust • Zig • TypeScript • Python
 
 ## 📊 GitHub Stats
 
-![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotori-alt&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotori-alt&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
