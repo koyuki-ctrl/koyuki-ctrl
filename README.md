@@ -1,29 +1,33 @@
 # Hi, I'm Aina 👋
 
-**Junior dev exploring systems & web — learning in public.**  
-Rust • Zig • TypeScript • Python
+**Junior dev learning in public — systems, web & tooling.**  
+Rust • Zig • Go • C • TypeScript • Python
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 Currently Learning
 
-| Language | What I'm learning |
-|----------|-------------------|
-| **Rust** | Ownership, memory safety, building CLI tools |
-| **Zig** | Manual memory management, comptime, zero-cost abstractions |
+| Language | What I'm figuring out |
+|----------|----------------------|
+| **Rust** | Ownership, borrowing, memory safety |
+| **Zig** | Manual memory management, build.zig, comptime |
+| **Go** | Concurrency, standard library, clean APIs |
+| **C** | Pointers, memory layout, how things really work |
 | **TypeScript / JS** | Typed APIs, Node tooling, modern ESM |
 | **Python** | Scripting, automation, quick prototyping |
 
-&gt; I don't just "try" languages. I break things, read the source, and document what I learned.
+&gt; I'm not an expert in any of these yet. I'm documenting the journey from zero to functional.
 
 ---
 
-## 📌 Featured Repos (Work in Progress)
+## 📌 Learning Repos (Work in Progress)
 
 | Repo | Stack | Description |
 |------|-------|-------------|
-| [rust-cli-tools](https://github.com/YOUR_USERNAME/rust-cli-tools) | Rust | Small utilities to learn ownership and std::fs |
-| [zig-from-scratch](https://github.com/YOUR_USERNAME/zig-from-scratch) | Zig | Experiments with allocators, build.zig, and C interop |
+| [learning-rust](https://github.com/YOUR_USERNAME/learning-rust) | Rust | Exercises from the Rust Book + small CLI tools |
+| [zig-from-scratch](https://github.com/YOUR_USERNAME/zig-from-scratch) | Zig | Allocators, build files, C interop experiments |
+| [go-concurrency](https://github.com/YOUR_USERNAME/go-concurrency) | Go | Goroutines, channels, standard library patterns |
+| [c-pointers](https://github.com/YOUR_USERNAME/c-pointers) | C | Memory, structs, manual allocation |
 | [ts-node-kit](https://github.com/YOUR_USERNAME/ts-node-kit) | TS/Node | Typed scripts and API clients |
 | [python-automation](https://github.com/YOUR_USERNAME/python-automation) | Python | File organizers, scrapers, API glue |
 
@@ -33,17 +37,19 @@ Rust • Zig • TypeScript • Python
 
 ## 🎯 Current Goals
 
-- [ ] Ship 4 small repos with clean READMEs and tests
-- [ ] Make my first meaningful open-source contribution (docs or code)
+- [ ] Build 6 small repos with clean READMEs and working code
+- [ ] Make my first open-source contribution (docs or code)
 - [ ] Deploy a project using GitHub Pages
-- [ ] Write a blog post about something I broke in Zig
+- [ ] Write a post about something I broke in C or Zig
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Learning Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
