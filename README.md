@@ -50,9 +50,9 @@ Rust • Zig • Go • C • TypeScript • Python
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=Koyuki-ctrl&theme=github-dark-blue&hide_border=true" />
 
