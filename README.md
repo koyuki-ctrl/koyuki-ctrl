@@ -34,15 +34,6 @@ Rust • Zig • Go • C • TypeScript • Python
 
 ---
 
-## 🎯 Current Goals
-
-- [ ] Build 6 small repos with clean READMEs and working code
-- [ ] Make my first open-source contribution (docs or code)
-- [ ] Deploy a project using GitHub Pages
-- [ ] Write a post about something I broke in C or Zig
-
----
-
 ## 🛠️ Learning Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -57,8 +48,8 @@ Rust • Zig • Go • C • TypeScript • Python
 
 ## 📊 GitHub Stats
 
-![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotori-alt&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotori-alt&layout=compact&theme=github_dark&hide_border=true)
+![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
