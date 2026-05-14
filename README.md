@@ -48,10 +48,41 @@ Rust • Zig • Go • C • TypeScript • Python
 
 ## 📊 GitHub Stats
 
-![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=Koyuki-ctrl&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Koyuki-ctrl&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Aina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koyuki-ctrl&theme=github-dark&hide_border=true)](https://github.com/Koyuki-ctrl)
+
+---
+
+## ⚡ Current Focus
+
+```txt
+→ Learning low-level programming
+→ Building tiny tools daily
+→ Understanding memory & systems
+→ Writing cleaner code every week
 
 ## 📫 Connect
 
