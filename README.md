@@ -35,15 +35,15 @@ I’m building, breaking things, learning fast, and documenting the process publ
 
 ### 🔐 Wifly
 
-> WiFi utility & networking experiments
+Linux file sharing application built with Tauri
 
-* CLI-focused networking project
-* Learning sockets, scanning & system interaction
-* Built while exploring lower-level programming concepts
+* Transfer files between devices over the same network
+* Built with Tauri for lightweight desktop performance
+* Exploring networking, file transfer protocols via http and websocket, and system integration
+* Focused on simplicity, speed, and local-first sharing
 
 🔗 Repo:
 https://github.com/koyuki-ctrl/Wifly
-
 ---
 
 ### 🔄 Morpho Converter *(in development)*
