@@ -1,48 +1,73 @@
 # Hi, I'm Aina 👋
 
-**Junior dev learning in public — systems, web & tooling.**  
-Rust • Zig • Go • C • TypeScript • Python
+### Junior developer learning in public
+
+Systems • Tooling • CLI • Web • Low-level programming
+
+> Rust • Zig • Go • C • TypeScript • Python
+
+---
+
+## 🚀 About Me
+
+I'm currently focused on understanding how software works under the hood —
+from memory management and systems programming to APIs and developer tooling.
+
+I’m not trying to look like an expert.
+I’m building, breaking things, learning fast, and documenting the process publicly.
 
 ---
 
 ## 🔭 Currently Learning
 
-| Language | What I'm figuring out |
-|----------|----------------------|
-| **Rust** | Ownership, borrowing, memory safety |
-| **Zig** | Manual memory management, build.zig, comptime |
-| **Go** | Concurrency, standard library, clean APIs |
-| **C** | Pointers, memory layout, how things really work |
-| **TypeScript / JS** | Typed APIs, Node tooling, modern ESM |
-| **Python** | Scripting, automation, quick prototyping |
-
-&gt; I'm not an expert in any of these yet. I'm documenting the journey from zero to functional.
+| Language       | Current Focus                             |
+| -------------- | ----------------------------------------- |
+| **Rust**       | Ownership, borrowing, memory safety       |
+| **Zig**        | Allocators, `comptime`, low-level tooling |
+| **Go**         | Concurrency, goroutines, clean APIs       |
+| **C**          | Pointers, memory layout, manual memory    |
+| **TypeScript** | Typed backend tooling & APIs              |
+| **Python**     | Automation, scripting, prototyping        |
 
 ---
 
-## 📌 What I'm Building
+## 📌 Featured Projects
 
-| Repo (coming soon) | Stack | Description |
-|--------------------|-------|-------------|
-| `learning-rust` | Rust | Exercises from the Rust Book + small CLI tools |
-| `zig-from-scratch` | Zig | Allocators, build files, C interop experiments |
-| `go-concurrency` | Go | Goroutines, channels, standard library patterns |
-| `ts-node-kit` | TS/Node | Typed scripts and API clients |
-| `python-automation` | Python | File organizers, scrapers, API glue |
+### 🔐 Wifly
 
-*(Repos will appear here as I commit daily. Follow the mess → follow the progress.)*
+> WiFi utility & networking experiments
+
+* CLI-focused networking project
+* Learning sockets, scanning & system interaction
+* Built while exploring lower-level programming concepts
+
+🔗 Repo:
+https://github.com/koyuki-ctrl/Wifly
 
 ---
 
-## 🛠️ Learning Stack
+### 🔄 Morpho Converter *(in development)*
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+> Experimental conversion & transformation tool
+
+* Currently under active development
+* Focused on data transformation workflows
+* Built to practice architecture & clean tooling design
+
+🔗 Repo:
+https://github.com/koyuki-ctrl/morpho-converter
+
+---
+
+## 🛠️ Tech Stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat\&logo=zig\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 
 ---
 
@@ -50,9 +75,9 @@ Rust • Zig • Go • C • TypeScript • Python
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Koyuki-ctrl&show_icons=true&theme=github_dark&hide_border=true" />
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Koyuki-ctrl&layout=compact&theme=github_dark&hide_border=true" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=Koyuki-ctrl&theme=github-dark-blue&hide_border=true" />
 
@@ -60,7 +85,7 @@ Rust • Zig • Go • C • TypeScript • Python
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity
 
 <div align="center">
 
@@ -72,26 +97,30 @@ Rust • Zig • Go • C • TypeScript • Python
 
 ## 📈 Contribution Graph
 
-[![Aina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koyuki-ctrl&theme=github-dark&hide_border=true)](https://github.com/Koyuki-ctrl)
+[![Aina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koyuki-ctrl\&theme=github-dark\&hide_border=true)](https://github.com/Koyuki-ctrl)
 
 ---
 
-## ⚡ Current Focus
+## ⚡ Current Goals
 
 ```txt
-→ Learning low-level programming
-→ Building tiny tools daily
-→ Understanding memory & systems
-→ Writing cleaner code every week
-
-## 📫 Connect
-
-💬 **No LinkedIn, no portfolio — yet.**  
-I'm building in public right here on GitHub.  
-Open an issue, leave a comment, or just say hi in a discussion.
-
-📧 **ainazeleph@gmail.com**
+→ Build projects consistently
+→ Improve systems programming knowledge
+→ Write cleaner and simpler code
+→ Learn by shipping small tools
+→ Understand computers at a deeper level
+```
 
 ---
 
-*"Junior doesn't mean clueless. It means building the foundation in public."*
+## 📫 Contact
+
+💬 No portfolio. No startup pitch.
+Just code, experiments, and progress documented publicly.
+
+📧 [ainazeleph@gmail.com](mailto:ainazeleph@gmail.com)
+
+---
+
+> “Junior doesn't mean clueless.
+> It means building the foundation in public.”
