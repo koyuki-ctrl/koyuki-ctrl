@@ -4,7 +4,7 @@
 
 Systems • Tooling • CLI • Web • Low-level programming
 
-> Rust • Zig • Go • C • TypeScript • Python
+> Rust • Go • C • TypeScript • Python
 
 ---
 
@@ -50,7 +50,6 @@ https://github.com/koyuki-ctrl/morpho-converter
 ## 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat\&logo=zig\&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
