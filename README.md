@@ -66,17 +66,6 @@ https://github.com/koyuki-ctrl/morpho-converter
 <img height="170" src="https://streak-stats.demolab.com?user=Koyuki-ctrl&theme=github-dark-blue&hide_border=true" />
 
 </div>
-
----
-
-## 🏆 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Koyuki-ctrl&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
