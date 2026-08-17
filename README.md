@@ -23,7 +23,6 @@ I’m building, breaking things, learning fast, and documenting the process publ
 | Language       | Current Focus                             |
 | -------------- | ----------------------------------------- |
 | **Rust**       | Ownership, borrowing, memory safety       |
-| **Zig**        | Allocators, `comptime`, low-level tooling |
 | **Go**         | Concurrency, goroutines, clean APIs       |
 | **C**          | Pointers, memory layout, manual memory    |
 | **TypeScript** | Typed backend tooling & APIs              |
