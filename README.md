@@ -32,19 +32,6 @@ I’m building, breaking things, learning fast, and documenting the process publ
 ---
 
 ## 📌 Featured Projects
-
-### 🔐 Wifly
-
-> Linux local file sharing application built with Tauri
-
-* Transfer files between Linux devices using WebSocket connections
-* Uses Linux hotspot/local network connectivity for direct sharing
-* Lightweight desktop application powered by Tauri
-* Exploring networking, real-time transfer, and system integration
-
-🔗 Repo:
-https://github.com/koyuki-ctrl/Wifly
-
 ---
 
 ### 🔄 Morpho Converter *(in development)*
